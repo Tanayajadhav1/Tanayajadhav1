@@ -47,10 +47,10 @@ I'm passionate about solving problems with code and constantly learning new tech
 
 ---
 
-## 📊 GitHub Stats
+## 📈 2026 Contribution Activity
 
-![](https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=nightowl)
+[![Tanaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanayajadhav1&theme=github-dark)](https://github.com/Tanayajadhav1)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=nightowl)
+## 🐍 Contribution Snake
 
----
+![snake gif](https://github.com/Tanayajadhav1/Tanayajadhav1/blob/output/github-snake.svg)
