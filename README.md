@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!!+👋;I'm+Tanaya+Jadhav+😎;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!!+👋;I'm+Tanaya+Jadhav+;)](https://git.io/typing-svg)
+
 
 # I'm Tanaya Jadhav
 
